@@ -9,3 +9,4 @@ A simple Django app for text saving and retrieval.
  
    check whether the DB connection credentials are correct in .env .
 do pending migration if have any. (to affect the changes in DB).
+Django Simple JWT concept have been used for authentication [refer](https://django-rest-framework-simplejwt.readthedocs.io/en/latest/). 
